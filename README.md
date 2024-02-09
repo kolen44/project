@@ -1,3 +1,3 @@
 # project
 
-my first work with git
+my first work with git.
